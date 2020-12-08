@@ -23,7 +23,7 @@
           <div class="container-fluid">
             <div class="row">
                 <div class="col-md-4">
-                    <h3>UFO Sightings: Fact or Fancy? <small>Ufologists Weigh In</small></h3>
+                    <h3>UFO Sightings: Fact or Fancy? <br><small>Ufologists Weigh In</small></h3>
                 </div>
                 <div class="col-md-8">
                     <p>
@@ -38,15 +38,25 @@
                 <form class="bg-dark">
                     <p>Filter Search</p>
                     <ul class="list-group bg-dark">
-                    <li class="list-group-item bg-dark" [ tag.
-                    ]{style="font-family: inherit; font-size: 1rem;"}>
+                    <li class="list-group-item bg-dark">
                         <label for="date">Enter Date</label>
-                        <input type="text" placeholder="1/10/2010" id="datetime" />
+                        <input type="text" placeholder="1/10/2010" id="datetime" class="form-control"/>
                     </li>
-                    <li class="list-group-item bg-dark" [ tag.
-                    ]{style="font-family: inherit; font-size: 1rem;"}>
-                        <button id="filter-btn" type="button" class="btn btn-dark">Filter Table
-                        </button>
+                    <li class="list-group-item bg-dark">
+                        <label for="city">Enter a City</label>
+                        <input type="text" placeholder="national city" id="city" class="form-control"/>
+                    </li>
+                    <li class="list-group-item bg-dark">
+                        <label for="state">Enter a State</label>
+                        <input type="text" placeholder="ca" id="state" class="form-control"/>
+                    </li>
+                    <li class="list-group-item bg-dark">
+                        <label for="country">Enter a Country</label>
+                        <input type="text" placeholder="us" id="country" class="form-control"/>
+                    </li>
+                    <li class="list-group-item bg-dark">
+                        <label for="shape">Enter a Shape</label> 
+                        <input type="text" placeholder="fireball" id="shape" class="form-control"/> 
                     </li>
                 </ul>
                 </form>
@@ -55,7 +65,6 @@
                 <table class="table table-striped">
                     <thead>
                       <tr>
-                        <th>
                             <th>Date</th>
                             <th>City</th>
                             <th>State</th>
@@ -63,8 +72,7 @@
                             <th>Shape</th>
                             <th>Duration</th>
                             <th>Comments</th>
-                        </th>
-                      </tr>
+                        </tr>
                     </thead>
                     <tbody></tbody>
                   </table>
@@ -75,6 +83,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
 <script src="static/js/data.js"></script>
 <script src="static/js/app.js"></script>
-    
+
 </body>
 </html>
