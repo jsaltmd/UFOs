@@ -1,9 +1,11 @@
 # UFOs
 Java Script
 
-![](./pictures/nasa.png)
+
 
 For your written analysis, be sure to use complete and coherent sentences. Your written analysis should contain three sections, which cover the following:
+
+![](./pictures/pic.png)
 
 1. Overview of Project: Explain the purpose of this analysis.
 
