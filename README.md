@@ -19,7 +19,7 @@ Picture A:
 
 ![](./pictures/pic2.png)
 
-When the user enter a search criteria, the javascript we write will store the values in the text box and IDs associated with the text box and the javascript object. Therefore, when the user type in "ca" for the state, the table will show all the information related to "ca". the user can also perform multiple search and it will filter the table accordingly as shown on the image below (picture B):
+When the user enter a search criteria, the javascript we write will store the values in the text box and IDs associated with the text box and the javascript object. Therefore, when the user type in "ca" for the state, the table will show all the information related to "ca". The user can also perform multiple search and it will filter the table accordingly as shown on the image below (picture B):
 
 Picture B:
 
