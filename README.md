@@ -42,7 +42,7 @@ Picture C:
 
 ![](./pictures/pic4.png)
 
- 2. *Add a pull down menu for some of the filter search criteria to directly provide the given information from the table to the user. A good example is the "shape" criteria. Some of the shapes are uncommon (e.g. light, flash, chevron, formation, etc.). The user will have the tendency to scroll through the table and it is not efficient. Refer to image (picture D) shown below:
+ 2. *Add a pull down menu for some of the filter search criteria to directly provide the given information from the table to the user. A good example is the "shape" criteria. Some of the shapes are uncommon (e.g. light, flash, chevron, formation, etc.). The user will have the tendency to scroll through the table and it is not efficient. Refer to image (picture D) shown below:*
 
 Picture D:
 
