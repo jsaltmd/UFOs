@@ -1,7 +1,7 @@
 # UFOs
 Java Script
 
-![](./static/images/nasa.png)
+![](./pictures/nasa.png)
 
 For your written analysis, be sure to use complete and coherent sentences. Your written analysis should contain three sections, which cover the following:
 
