@@ -9,7 +9,7 @@ Dana a data journalist created a webpage and dynamic table and are working as in
 
 ### Results
 
-On the webpage link below:
+On the webpage, see index.html file link below in this repository:
 
 https://github.com/jsaltmd/UFOs/blob/main/index.html
 
